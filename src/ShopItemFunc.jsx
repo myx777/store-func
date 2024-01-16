@@ -23,6 +23,7 @@ const ShopItemFunc = ({ item }) => {
   );
 };
 
+// проверка типов свойств с использованием prop-types
 ShopItemFunc.propTypes = {
   item: PropTypes.shape({
     brand: PropTypes.string.isRequired,

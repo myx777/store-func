@@ -1,7 +1,6 @@
 import React from 'react';
 import ShopItemFunc from './ShopItemFunc'; // Импорт компонента ShopItemFunc
-import '../css/main.css'; // Подключение стилей для App, если они есть
-
+import '../css/main.css';
 const App = () => {
   const item = {
     brand: 'Tiger of Sweden',
