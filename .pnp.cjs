@@ -33,6 +33,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-plugin-react", "virtual:2d0904b1a51a2cb679f7e9ee5646a07602c6761e8b173ac75f8da717faa4c6958ffe95bc15eb7bf9a54e3b7ddac4c83d6e0df0f0ac8097407df4c2928e098c0d#npm:7.33.2"],\
           ["eslint-plugin-react-hooks", "virtual:2d0904b1a51a2cb679f7e9ee5646a07602c6761e8b173ac75f8da717faa4c6958ffe95bc15eb7bf9a54e3b7ddac4c83d6e0df0f0ac8097407df4c2928e098c0d#npm:4.6.0"],\
           ["eslint-plugin-react-refresh", "virtual:2d0904b1a51a2cb679f7e9ee5646a07602c6761e8b173ac75f8da717faa4c6958ffe95bc15eb7bf9a54e3b7ddac4c83d6e0df0f0ac8097407df4c2928e098c0d#npm:0.4.5"],\
+          ["prop-types", "npm:15.8.1"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:2d0904b1a51a2cb679f7e9ee5646a07602c6761e8b173ac75f8da717faa4c6958ffe95bc15eb7bf9a54e3b7ddac4c83d6e0df0f0ac8097407df4c2928e098c0d#npm:18.2.0"],\
           ["vite", "virtual:2d0904b1a51a2cb679f7e9ee5646a07602c6761e8b173ac75f8da717faa4c6958ffe95bc15eb7bf9a54e3b7ddac4c83d6e0df0f0ac8097407df4c2928e098c0d#npm:5.0.11"]\
@@ -3776,6 +3777,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-plugin-react", "virtual:2d0904b1a51a2cb679f7e9ee5646a07602c6761e8b173ac75f8da717faa4c6958ffe95bc15eb7bf9a54e3b7ddac4c83d6e0df0f0ac8097407df4c2928e098c0d#npm:7.33.2"],\
           ["eslint-plugin-react-hooks", "virtual:2d0904b1a51a2cb679f7e9ee5646a07602c6761e8b173ac75f8da717faa4c6958ffe95bc15eb7bf9a54e3b7ddac4c83d6e0df0f0ac8097407df4c2928e098c0d#npm:4.6.0"],\
           ["eslint-plugin-react-refresh", "virtual:2d0904b1a51a2cb679f7e9ee5646a07602c6761e8b173ac75f8da717faa4c6958ffe95bc15eb7bf9a54e3b7ddac4c83d6e0df0f0ac8097407df4c2928e098c0d#npm:0.4.5"],\
+          ["prop-types", "npm:15.8.1"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:2d0904b1a51a2cb679f7e9ee5646a07602c6761e8b173ac75f8da717faa4c6958ffe95bc15eb7bf9a54e3b7ddac4c83d6e0df0f0ac8097407df4c2928e098c0d#npm:18.2.0"],\
           ["vite", "virtual:2d0904b1a51a2cb679f7e9ee5646a07602c6761e8b173ac75f8da717faa4c6958ffe95bc15eb7bf9a54e3b7ddac4c83d6e0df0f0ac8097407df4c2928e098c0d#npm:5.0.11"]\
